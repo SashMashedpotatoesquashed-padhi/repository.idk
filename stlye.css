@@ -1,0 +1,31 @@
+.pg1{
+  color: crimson;
+}
+body{
+	background-color: orange;
+	
+	
+}
+img{
+  border-radius: 100%
+    
+}
+#xtra-c.a{
+	color: crimson;
+}
+section{
+	color: crimson;
+}
+.menu{
+	position: absolute;
+    position: fixed;
+	z-index: 9;
+	cursor: pointer;
+}
+.links{
+	color: azure;
+}
+html{
+	scroll-behavior: smooth;
+	
+}
